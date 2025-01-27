@@ -28,7 +28,7 @@ body {
     width: 80px;
 }
 
-.sidebar_library{
+.library{
     position: static;
     background-color: #121212;
     border-radius: 8px;
@@ -37,7 +37,7 @@ body {
     margin-left: 13px;
 }
 
-.sidebar_library ul li a {
+.library ul li a {
     color: #b3b3b3;
     text-decoration: none;
     font-weight: 600;
