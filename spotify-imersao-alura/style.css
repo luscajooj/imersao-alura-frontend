@@ -3,7 +3,7 @@ body {
 }
 
 .sidebar {
-    position: fixed;
+    position: static;
     top: 0;
     left: 0;
     bottom: 0;
@@ -26,6 +26,28 @@ body {
 
 .sidebar_navigation .logo img {
     width: 80px;
+}
+
+.sidebar_library{
+    position: static;
+    background-color: #121212;
+    border-radius: 8px;
+    padding: 20px 32px 20px 34px;
+    width: 235px;
+    margin-left: 13px;
+}
+
+.sidebar_library ul li a {
+    color: #b3b3b3;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+    font-family: "DM Sans", sans-serif;
+}
+
+.plus-sign{
+    margin-left: 100px;
+    font-size: 1.3em;    
 }
 
 .sidebar nav ul {
