@@ -4,7 +4,7 @@ Repositório criado para acompanhar o progresso durante a **Imersão Front-End d
 
 ## 📂 Conteúdo do Repositório
 
-- **spotify-imersao-alura**: Projeto que replica a página inicial do Spotify, utilizando HTML e CSS.
+- **spotify-imersao-alura**: Projeto que replica a página inicial do Spotify, utilizando HTML, CSS e JavaScript.
 
 ## 🚀 Como Utilizar
 
